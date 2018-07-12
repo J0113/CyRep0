@@ -3,14 +3,14 @@ Repository Generator and Manager for Cydia written in Python.
 
 ## How to use?
 
-** Any Platform **
+__ Any Platform __
 
 Make sure that Python 3.7 has been installed on your system. Than make sure to install bz2 and easygui. 
 
 Download the source code and start CyRep0.py. (During setup of a new repo all files in the repo are needed, after creation CyRep0.py can work standalone!)
 
 
-** Windows **
+__ Windows __
 
 For Windows, you may use the any platform methode or you can use the .exe! The exe is much easier to use, the exe is compiled with py2exe so it should be reversable if anyone really wants to check the code.
 
