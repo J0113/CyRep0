@@ -1,5 +1,6 @@
 # CyRep0 Repository Generator and Manger for Cydia
 Repository Generator and Manager for Cydia written in Python.
+NOTE: This program is currently in Beta. There may be issues, please create an issues [here](https://github.com/J0113/CyRep0/issues "issues")
 
 ## How to use?
 
